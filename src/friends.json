@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/voltron/images/b/b3/Keith_%28Paladin%29_-_LD.png/revision/latest?cb=20160615052007",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/voltron/images/c/c1/Pidge_%28Paladin%29_-_LD.png/revision/latest?cb=20160615043235",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://vignette.wikia.nocookie.net/voltronlegendarydefender/images/7/7f/Hunk.png/revision/latest?cb=20160726011020",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://vignette.wikia.nocookie.net/voltron/images/f/f3/Lance_%28Paladin%29_-_LD.png/revision/latest?cb=20160615052547",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://vignette.wikia.nocookie.net/voltron/images/b/b6/Shiro_%28Paladin%29_-_LD.png/revision/latest?cb=20160615042432",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/voltron/images/4/4f/Allura_%28Armor%29_-_LD.png/revision/latest?cb=20160615050002",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/voltronlegendarydefender/images/8/80/Voltron.png/revision/latest?cb=20160726011929",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://ii.yuki.la/b/8d/cfc76240754006a492f146200bbae4281b2c8bba4a919df5aee27921052d98db.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/voltronlegendarydefender/images/2/22/Blue_Lion.png/revision/latest?cb=20160726012103",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/voltronlegendarydefender/images/6/6c/Green_Lion.png/revision/latest?cb=20160726012305",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette3.wikia.nocookie.net/voltronlegendarydefender/images/2/20/Yellow_Lion2.png/revision/latest?cb=20170316233510",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/voltronlegendarydefender/images/0/0d/Black_Lion.png/revision/latest?cb=20160726012026",
+    "clicked": false
+  }
+]
+
+
+

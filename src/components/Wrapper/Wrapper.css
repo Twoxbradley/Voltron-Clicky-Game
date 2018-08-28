@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('http://vignette3.wikia.nocookie.net/voltron/images/4/45/83b._Blue_Lion_flees_Galra_ship_past_Kerberos.png/revision/latest?cb=20160803001445');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
